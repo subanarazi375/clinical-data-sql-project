@@ -41,7 +41,8 @@ One Participant → Many Adverse Events
 
 - ## Entity Relationship Diagram
 
-![Clinical Trial EER Diagram](eer_diagram.png)
+<img width="961" height="548" alt="image" src="https://github.com/user-attachments/assets/4e76f849-972a-4a75-8ea2-b3eb7f042ccf" />
+
 - COUNT
 - WHERE
 - ORDER BY
