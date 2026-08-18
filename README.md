@@ -49,3 +49,7 @@ One Participant → Many Adverse Events
 
 ## EER Diagram
 - uploaded
+
+## Dataset obtained from
+Gakava L (2026). clinTrialData: Clinical Trial Example Datasets. R package version 0.1.3, https://github.com/lovemore-gakava/clintrialdata 
+for the purpose of practice only
