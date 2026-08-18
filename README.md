@@ -43,5 +43,4 @@ One Participant → Many Adverse Events
 - ORDER BY
 
 ## EER Diagram
-
-(Add your image here)
+- uploaded
